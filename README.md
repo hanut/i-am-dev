@@ -1,16 +1,8 @@
-# i_am_dev
+# About
+I Am Dev is a simple app for the simple person.
+Wanna know what being a dev is all about ?
 
-I Am Dev project for the Flutter course
+Build and run on your Android device to find out !
 
-## Getting Started
+Quake before the raw power of the \_\_DEV_/_/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
